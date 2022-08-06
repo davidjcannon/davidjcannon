@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is David</h1>
-<h3 align="center">A passionate frontend developer from Philedelphia</h3>
+<h3 align="center">A passionate frontend developer from Philadelphia</h3>
 
 - 🌱 I’m currently learning **Angular, Java, HTML, CSS React**
 
