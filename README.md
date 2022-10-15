@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is David</h1>
 <h3 align="center">A passionate frontend developer from Philadelphia</h3>
 
-- 🌱 I’m currently learning **Angular, Java, HTML, CSS React**
+- 🌱 I’m currently learning **Python, Angular, Java, HTML, CSS, and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
