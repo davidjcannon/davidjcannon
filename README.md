@@ -1,11 +1,12 @@
 <h1 align="center">Hello, my name is David</h1>
-<h3 align="center">A passionate frontend developer from Philadelphia</h3>
+<h3 align="center">A passionate developer from Pennsylvania</h3>
 
-- 🌱 I’m currently learning **Python, Angular, Java, HTML, CSS, and React**
+- 🌱 I’m currently practicing **React Native, Python, Java, HTML, CSS, and Angular**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/david-cannon-21575323a">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
