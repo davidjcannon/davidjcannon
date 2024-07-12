@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is David</h1>
 <h3 align="center">A passionate developer from Pennsylvania</h3>
 
-- 🌱 I’m currently practicing **React Native, Python, Java, HTML, CSS, and Angular**
+- 🌱 I’m currently practicing **React Native, SvelteKit, Python, Java, HTML, CSS, and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/david-cannon-21575323a">
